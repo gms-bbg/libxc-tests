@@ -1,0 +1,5 @@
+# ignore artefacts of GAMESS runs
+*.log
+*.rst
+*.dat
+*.trj
