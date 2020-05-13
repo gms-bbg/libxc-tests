@@ -1,0 +1,19 @@
+ $CONTRL DFTTYP=USELIBXC $END
+ $LIBXC FUNCTIONAL=LC-QTP $END
+ $SYSTEM MWORDS=100 $END
+ $CONTRL MAXIT=200 SCFTYP=RHF RUNTYP=gradient ISPHER=1 UNITS=ANGS
+  EXETYP=RUN COORD=UNIQUE ICHARG=0 MULT=1            $END
+ $BASIS GBASIS=N21 NGAUSS=3                          $END
+ $SCF DIRSCF=.TRUE.                                  $END
+ $SCF DIIS=.TRUE.                                    $END
+ $SCF SOSCF=.FALSE.                                  $END
+ $STATPT NSTEP=100 OPTTOL=1D-7                       $END
+ $DFT NRAD=300 NLEB=302                              $END
+ $DATA
+ Helium atom
+C1
+ He          2.0 0.0 0.0 0.0
+ $END
+
+!
+!TRAVIS-CI SMALL
