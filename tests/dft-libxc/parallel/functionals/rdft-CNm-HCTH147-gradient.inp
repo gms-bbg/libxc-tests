@@ -1,0 +1,20 @@
+ $CONTRL DFTTYP=USELIBXC $END
+ $LIBXC FUNCTIONAL=HCTH147 $END
+ $SYSTEM MWORDS=100 $END
+ $CONTRL MAXIT=200 SCFTYP=RHF RUNTYP=gradient ISPHER=1 UNITS=ANGS
+  EXETYP=RUN COORD=UNIQUE ICHARG=-1 MULT=1           $END
+ $BASIS GBASIS=N21 NGAUSS=3                          $END
+ $SCF DIRSCF=.TRUE.                                  $END
+ $SCF DIIS=.TRUE.                                    $END
+ $SCF SOSCF=.FALSE.                                  $END
+ $STATPT NSTEP=100 OPTTOL=1D-7                       $END
+ $DFT NRAD=300 NLEB=302                              $END
+ $DATA
+ CN(-), R(C,N)=1.17A
+C1
+ C           6.0 0.0 0.0 0.0
+ N           7.0 0.0 0.0 1.17
+ $END
+
+!
+!TRAVIS-CI SMALL
