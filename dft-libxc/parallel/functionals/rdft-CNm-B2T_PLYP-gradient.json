@@ -90,6 +90,62 @@
       "tolerance": 5e-08
     },
     {
+      "header": "MP2",
+      "name": "E(SCF)",
+      "value": "-92.0875115552",
+      "type": "float",
+      "precision": 10,
+      "tolerance": 5e-08
+    },
+    {
+      "header": "MP2",
+      "name": "E(2)",
+      "value": "-0.2387779851",
+      "type": "float",
+      "precision": 10,
+      "tolerance": 5e-08
+    },
+    {
+      "header": "MP2",
+      "name": "E(MP2)",
+      "value": "-92.3262895403",
+      "type": "float",
+      "precision": 10,
+      "tolerance": 5e-08
+    },
+    {
+      "header": "MP2 : SPIN-COMPONENT-SCALED",
+      "name": "E(2S)",
+      "value": "-0.1753143826",
+      "type": "float",
+      "precision": 10,
+      "tolerance": 5e-08
+    },
+    {
+      "header": "MP2 : SPIN-COMPONENT-SCALED",
+      "name": "E(2T)",
+      "value": "-0.0634636025",
+      "type": "float",
+      "precision": 10,
+      "tolerance": 5e-08
+    },
+    {
+      "header": "MP2 : SPIN-COMPONENT-SCALED",
+      "name": "E(2ST)",
+      "value": "-0.2315317933",
+      "type": "float",
+      "precision": 10,
+      "tolerance": 5e-08
+    },
+    {
+      "header": "MP2 : SPIN-COMPONENT-SCALED",
+      "name": "E(SCS-MP2)",
+      "value": "-92.3190433485",
+      "type": "float",
+      "precision": 10,
+      "tolerance": 5e-08
+    },
+    {
       "header": "GRADIENT",
       "name": "MAXIMUM GRADIENT",
       "value": "0.035492706",
@@ -112,30 +168,6 @@
       "type": "float",
       "precision": 6,
       "tolerance": 0.0005
-    },
-    {
-      "header": "LIBCCHEM",
-      "name": "E(0)       ",
-      "value": "-92.0875115552",
-      "type": "float",
-      "precision": 10,
-      "tolerance": 5e-08
-    },
-    {
-      "header": "LIBCCHEM",
-      "name": "E(2)       ",
-      "value": "-0.2387779850",
-      "type": "float",
-      "precision": 10,
-      "tolerance": 5e-08
-    },
-    {
-      "header": "LIBCCHEM",
-      "name": "E(MP2)     ",
-      "value": "-92.3262895403",
-      "type": "float",
-      "precision": 10,
-      "tolerance": 5e-08
     }
   ]
 }
