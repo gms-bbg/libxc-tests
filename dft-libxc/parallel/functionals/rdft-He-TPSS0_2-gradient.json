@@ -103,7 +103,7 @@
       "value": "-0.0120694399",
       "type": "float",
       "precision": 10,
-      "tolerance": 5e-08
+      "tolerance": 5e-07
     },
     {
       "header": "MP2",
@@ -111,7 +111,7 @@
       "value": "-2.8700312318",
       "type": "float",
       "precision": 10,
-      "tolerance": 5e-08
+      "tolerance": 5e-07
     },
     {
       "header": "MP2 : SPIN-COMPONENT-SCALED",
@@ -119,7 +119,7 @@
       "value": "-0.0120694399",
       "type": "float",
       "precision": 10,
-      "tolerance": 5e-08
+      "tolerance": 5e-07
     },
     {
       "header": "MP2 : SPIN-COMPONENT-SCALED",
@@ -135,7 +135,7 @@
       "value": "-0.0144833279",
       "type": "float",
       "precision": 10,
-      "tolerance": 5e-08
+      "tolerance": 5e-07
     },
     {
       "header": "MP2 : SPIN-COMPONENT-SCALED",
@@ -143,7 +143,7 @@
       "value": "-2.8724451198",
       "type": "float",
       "precision": 10,
-      "tolerance": 5e-08
+      "tolerance": 5e-07
     },
     {
       "header": "GRADIENT",
