@@ -17,4 +17,7 @@ C1
  $END
 
 !
-!TRAVIS-CI SMALL
+! Skipped due to numerical problem with PGI
+!
+!TRAVIS-CI SKIP
+!
