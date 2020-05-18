@@ -2,7 +2,7 @@
  $LIBXC hfex=0.25 $END
  $gga_x pbe=0.75 $end
  $gGa_C pW91=1 $eNd !mixing upper and lower case for testing mod_nameio
- $SYSTEM MWORDS=100 $END
+ $SYSTEM MWORDS=5 $END
  $CONTRL MAXIT=200 SCFTYP=RHF RUNTYP=gradient ISPHER=1 UNITS=ANGS
   EXETYP=RUN COORD=UNIQUE ICHARG=0                   $END
  $BASIS GBASIS=MIDI                                  $END
