@@ -103,7 +103,7 @@
       "value": "-0.0123652461",
       "type": "float",
       "precision": 10,
-      "tolerance": 5e-07
+      "tolerance": 7.5e-07
     },
     {
       "header": "MP2",
@@ -111,7 +111,7 @@
       "value": "-2.8867774057",
       "type": "float",
       "precision": 10,
-      "tolerance": 5e-07
+      "tolerance": 7.5e-07
     },
     {
       "header": "MP2 : SPIN-COMPONENT-SCALED",
@@ -119,7 +119,7 @@
       "value": "-0.0123652461",
       "type": "float",
       "precision": 10,
-      "tolerance": 5e-07
+      "tolerance": 7.5e-07
     },
     {
       "header": "MP2 : SPIN-COMPONENT-SCALED",
