@@ -16,7 +16,7 @@ C1
  $END
 
 !
-! Skipped due to numerical problem with PGI
+! Skipped due to numerical problem with Intel
 !
 !TRAVIS-CI SKIP
 !
