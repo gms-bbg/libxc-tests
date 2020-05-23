@@ -7,7 +7,7 @@
       "value": "1.0000000000",
       "type": "float",
       "precision": 10,
-      "tolerance": 5e-08
+      "tolerance": 7.5e-07
     },
     {
       "header": "WAVEFUNCTION PROPERTIES",
@@ -15,7 +15,7 @@
       "value": "-3.8666413601",
       "type": "float",
       "precision": 10,
-      "tolerance": 5e-08
+      "tolerance": 7.5e-07
     },
     {
       "header": "WAVEFUNCTION PROPERTIES",
@@ -23,7 +23,7 @@
       "value": "1.0020702954",
       "type": "float",
       "precision": 10,
-      "tolerance": 5e-08
+      "tolerance": 7.5e-07
     },
     {
       "header": "WAVEFUNCTION PROPERTIES",
@@ -31,7 +31,7 @@
       "value": "0.0000000000",
       "type": "float",
       "precision": 10,
-      "tolerance": 5e-08
+      "tolerance": 7.5e-07
     },
     {
       "header": "WAVEFUNCTION PROPERTIES",
@@ -39,7 +39,7 @@
       "value": "-2.8645710648",
       "type": "float",
       "precision": 10,
-      "tolerance": 5e-08
+      "tolerance": 7.5e-07
     },
     {
       "header": "WAVEFUNCTION PROPERTIES",
@@ -47,7 +47,7 @@
       "value": "0.0000000000",
       "type": "float",
       "precision": 10,
-      "tolerance": 5e-08
+      "tolerance": 7.5e-07
     },
     {
       "header": "WAVEFUNCTION PROPERTIES",
@@ -55,7 +55,7 @@
       "value": "1.0020702954",
       "type": "float",
       "precision": 10,
-      "tolerance": 5e-08
+      "tolerance": 7.5e-07
     },
     {
       "header": "WAVEFUNCTION PROPERTIES",
@@ -63,7 +63,7 @@
       "value": "-6.7164326553",
       "type": "float",
       "precision": 10,
-      "tolerance": 5e-08
+      "tolerance": 7.5e-07
     },
     {
       "header": "WAVEFUNCTION PROPERTIES",
@@ -71,7 +71,7 @@
       "value": "-5.7143623600",
       "type": "float",
       "precision": 10,
-      "tolerance": 5e-08
+      "tolerance": 7.5e-07
     },
     {
       "header": "WAVEFUNCTION PROPERTIES",
@@ -79,7 +79,7 @@
       "value": "2.8497912952",
       "type": "float",
       "precision": 10,
-      "tolerance": 5e-08
+      "tolerance": 7.5e-07
     },
     {
       "header": "WAVEFUNCTION PROPERTIES",
@@ -87,7 +87,7 @@
       "value": "2.0051862639",
       "type": "float",
       "precision": 10,
-      "tolerance": 5e-08
+      "tolerance": 7.5e-07
     },
     {
       "header": "MP2",
@@ -95,7 +95,7 @@
       "value": "-2.8645710648",
       "type": "float",
       "precision": 10,
-      "tolerance": 5e-08
+      "tolerance": 7.5e-07
     },
     {
       "header": "MP2",
@@ -103,7 +103,7 @@
       "value": "-0.0128224749",
       "type": "float",
       "precision": 10,
-      "tolerance": 5e-08
+      "tolerance": 7.5e-07
     },
     {
       "header": "MP2",
@@ -111,7 +111,7 @@
       "value": "-2.8773935396",
       "type": "float",
       "precision": 10,
-      "tolerance": 5e-08
+      "tolerance": 7.5e-07
     },
     {
       "header": "MP2 : SPIN-COMPONENT-SCALED",
@@ -119,7 +119,7 @@
       "value": "-0.0128224749",
       "type": "float",
       "precision": 10,
-      "tolerance": 5e-08
+      "tolerance": 7.5e-07
     },
     {
       "header": "MP2 : SPIN-COMPONENT-SCALED",
@@ -127,7 +127,7 @@
       "value": "0.0000000000",
       "type": "float",
       "precision": 10,
-      "tolerance": 5e-08
+      "tolerance": 7.5e-07
     },
     {
       "header": "MP2 : SPIN-COMPONENT-SCALED",
@@ -135,7 +135,7 @@
       "value": "-0.0153869698",
       "type": "float",
       "precision": 10,
-      "tolerance": 5e-08
+      "tolerance": 7.5e-07
     },
     {
       "header": "MP2 : SPIN-COMPONENT-SCALED",
@@ -143,7 +143,7 @@
       "value": "-2.8799580346",
       "type": "float",
       "precision": 10,
-      "tolerance": 5e-08
+      "tolerance": 7.5e-07
     },
     {
       "header": "GRADIENT",
