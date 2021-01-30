@@ -7,6 +7,6 @@ LIBXC inputs and validation files for GAMESS testing
 libxc-tests/
 └── dft-libxc/parallel/
     ├── default_dft        Standard ground-state DFT tests using LibXC
-    ├── functionals        Tests of LibXC functionals ($LIBXC group)
+    ├── functionals_dft    Tests of ground-state LibXC functionals ($LIBXC group)
     └── mod_nameio         Tests of reader
 ```

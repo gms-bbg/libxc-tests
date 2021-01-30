@@ -19,5 +19,5 @@ C1
 !
 ! Skipped due to numerical problem with Intel
 !
-!TRAVIS-CI SKIP
+!TRAVIS-CI SMALL
 !

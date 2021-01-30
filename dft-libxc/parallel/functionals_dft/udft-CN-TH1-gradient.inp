@@ -1,8 +1,8 @@
  $CONTRL DFTTYP=USELIBXC $END
- $LIBXC FUNCTIONAL=REVTM $END
+ $LIBXC FUNCTIONAL=TH1 $END
  $SYSTEM MWORDS=5 $END
- $CONTRL MAXIT=200 SCFTYP=RHF RUNTYP=gradient ISPHER=1 UNITS=ANGS
-  EXETYP=RUN COORD=UNIQUE ICHARG=0 MULT=1            $END
+ $CONTRL MAXIT=200 SCFTYP=UHF RUNTYP=gradient ISPHER=1 UNITS=ANGS
+  EXETYP=RUN COORD=UNIQUE ICHARG=0 MULT=2            $END
  $BASIS GBASIS=N21 NGAUSS=3                          $END
  $SCF DIRSCF=.TRUE.                                  $END
  $SCF DIIS=.TRUE.                                    $END
@@ -10,12 +10,14 @@
  $STATPT NSTEP=100 OPTTOL=1D-7                       $END
  $DFT NRAD=300 NLEB=302                              $END
  $DATA
- Helium atom
+ CN(*), R(C,N)=1.17A
 C1
- He          2.0 0.0 0.0 0.0
+ C           6.0 0.0 0.0 0.0
+ N           7.0 0.0 0.0 1.17
  $END
 
-! Skipped due to numerical instability with IBM XL
 !
-!TRAVIS-CI SKIP
+! Skipped due to numerical problem with Intel
+!
+!TRAVIS-CI SMALL
 !
