@@ -23,5 +23,5 @@ C1
 ! At line 2442 of file dftgrd.f (unit = 22, file = 'udft-HCTH76-gradient.F22')
 ! Fortran runtime error: End of file
 !
-!TRAVIS-CI SKIP
+!TRAVIS-CI SMALL
 !
