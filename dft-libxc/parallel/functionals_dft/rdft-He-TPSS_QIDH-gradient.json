@@ -7,7 +7,7 @@
       "value": "1.0000000000",
       "type": "float",
       "precision": 10,
-      "tolerance": 7.5e-07
+      "tolerance": 7.5e-7
     },
     {
       "header": "WAVEFUNCTION PROPERTIES",
@@ -15,7 +15,7 @@
       "value": "-3.8653009647",
       "type": "float",
       "precision": 10,
-      "tolerance": 7.5e-07
+      "tolerance": 7.5e-7
     },
     {
       "header": "WAVEFUNCTION PROPERTIES",
@@ -23,7 +23,7 @@
       "value": "0.9908888050",
       "type": "float",
       "precision": 10,
-      "tolerance": 7.5e-07
+      "tolerance": 7.5e-7
     },
     {
       "header": "WAVEFUNCTION PROPERTIES",
@@ -31,7 +31,7 @@
       "value": "0.0000000000",
       "type": "float",
       "precision": 10,
-      "tolerance": 7.5e-07
+      "tolerance": 7.5e-7
     },
     {
       "header": "WAVEFUNCTION PROPERTIES",
@@ -39,7 +39,7 @@
       "value": "-2.8744121597",
       "type": "float",
       "precision": 10,
-      "tolerance": 7.5e-07
+      "tolerance": 7.5e-7
     },
     {
       "header": "WAVEFUNCTION PROPERTIES",
@@ -47,7 +47,7 @@
       "value": "0.0000000000",
       "type": "float",
       "precision": 10,
-      "tolerance": 7.5e-07
+      "tolerance": 7.5e-7
     },
     {
       "header": "WAVEFUNCTION PROPERTIES",
@@ -55,15 +55,15 @@
       "value": "0.9908888050",
       "type": "float",
       "precision": 10,
-      "tolerance": 7.5e-07
+      "tolerance": 7.5e-7
     },
     {
       "header": "WAVEFUNCTION PROPERTIES",
       "name": "NUCLEUS-ELECTRON POTENTIAL ENERGY",
-      "value": "-6.7072865787",
+      "value": "-6.7072865786",
       "type": "float",
       "precision": 10,
-      "tolerance": 7.5e-07
+      "tolerance": 7.5e-7
     },
     {
       "header": "WAVEFUNCTION PROPERTIES",
@@ -71,7 +71,7 @@
       "value": "-5.7163977737",
       "type": "float",
       "precision": 10,
-      "tolerance": 7.5e-07
+      "tolerance": 7.5e-7
     },
     {
       "header": "WAVEFUNCTION PROPERTIES",
@@ -79,7 +79,7 @@
       "value": "2.8419856140",
       "type": "float",
       "precision": 10,
-      "tolerance": 7.5e-07
+      "tolerance": 7.5e-7
     },
     {
       "header": "WAVEFUNCTION PROPERTIES",
@@ -87,7 +87,7 @@
       "value": "2.0114098205",
       "type": "float",
       "precision": 10,
-      "tolerance": 7.5e-07
+      "tolerance": 7.5e-7
     },
     {
       "header": "MP2",
@@ -95,31 +95,31 @@
       "value": "-2.8744121597",
       "type": "float",
       "precision": 10,
-      "tolerance": 7.5e-07
+      "tolerance": 7.5e-7
     },
     {
       "header": "MP2",
       "name": "E(2)",
-      "value": "-0.0123652461",
+      "value": "-0.0123659702",
       "type": "float",
       "precision": 10,
-      "tolerance": 7.5e-07
+      "tolerance": 7.5e-7
     },
     {
       "header": "MP2",
       "name": "E(MP2)",
-      "value": "-2.8867774057",
+      "value": "-2.8867781299",
       "type": "float",
       "precision": 10,
-      "tolerance": 7.5e-07
+      "tolerance": 7.5e-7
     },
     {
       "header": "MP2 : SPIN-COMPONENT-SCALED",
       "name": "E(2S)",
-      "value": "-0.0123652461",
+      "value": "-0.0123659702",
       "type": "float",
       "precision": 10,
-      "tolerance": 7.5e-07
+      "tolerance": 7.5e-7
     },
     {
       "header": "MP2 : SPIN-COMPONENT-SCALED",
@@ -127,23 +127,23 @@
       "value": "0.0000000000",
       "type": "float",
       "precision": 10,
-      "tolerance": 7.5e-07
+      "tolerance": 7.5e-7
     },
     {
       "header": "MP2 : SPIN-COMPONENT-SCALED",
       "name": "E(2ST)",
-      "value": "-0.0148382953",
+      "value": "-0.0148391642",
       "type": "float",
       "precision": 10,
-      "tolerance": 7.5e-07
+      "tolerance": 7.5e-7
     },
     {
       "header": "MP2 : SPIN-COMPONENT-SCALED",
       "name": "E(SCS-MP2)",
-      "value": "-2.8892504549",
+      "value": "-2.8892513239",
       "type": "float",
       "precision": 10,
-      "tolerance": 7.5e-07
+      "tolerance": 7.5e-7
     },
     {
       "header": "GRADIENT",

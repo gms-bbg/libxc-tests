@@ -17,7 +17,6 @@ C1
  $END
 
 !
-! Skipped due to numerical problem with Intel
-!
 !TRAVIS-CI SMALL
 !
+
