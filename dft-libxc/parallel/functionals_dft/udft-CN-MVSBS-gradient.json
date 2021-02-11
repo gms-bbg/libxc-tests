@@ -12,7 +12,7 @@
     {
       "header": "WAVEFUNCTION PROPERTIES",
       "name": "ONE ELECTRON ENERGY",
-      "value": "-156.2870270217",
+      "value": "-161.5813697295",
       "type": "float",
       "precision": 10,
       "tolerance": 7.5e-7
@@ -20,7 +20,7 @@
     {
       "header": "WAVEFUNCTION PROPERTIES",
       "name": "TWO ELECTRON ENERGY",
-      "value": "137.2909206387",
+      "value": "50.3464427369",
       "type": "float",
       "precision": 10,
       "tolerance": 7.5e-7
@@ -36,7 +36,7 @@
     {
       "header": "WAVEFUNCTION PROPERTIES",
       "name": "TOTAL ENERGY",
-      "value": "0.0000000000",
+      "value": "-92.2388206097",
       "type": "float",
       "precision": 10,
       "tolerance": 7.5e-7
@@ -52,7 +52,7 @@
     {
       "header": "WAVEFUNCTION PROPERTIES",
       "name": "ELECTRON-ELECTRON POTENTIAL ENERGY",
-      "value": "137.2909206387",
+      "value": "50.3464427369",
       "type": "float",
       "precision": 10,
       "tolerance": 7.5e-7
@@ -60,7 +60,7 @@
     {
       "header": "WAVEFUNCTION PROPERTIES",
       "name": "NUCLEUS-ELECTRON POTENTIAL ENERGY",
-      "value": "-249.5266563806",
+      "value": "-253.2351385251",
       "type": "float",
       "precision": 10,
       "tolerance": 7.5e-7
@@ -68,7 +68,7 @@
     {
       "header": "WAVEFUNCTION PROPERTIES",
       "name": "TOTAL POTENTIAL ENERGY",
-      "value": "-93.2396293590",
+      "value": "-183.8925894052",
       "type": "float",
       "precision": 10,
       "tolerance": 7.5e-7
@@ -76,7 +76,7 @@
     {
       "header": "WAVEFUNCTION PROPERTIES",
       "name": "TOTAL KINETIC ENERGY",
-      "value": "93.2396293590",
+      "value": "91.6537687956",
       "type": "float",
       "precision": 10,
       "tolerance": 7.5e-7
@@ -84,7 +84,7 @@
     {
       "header": "WAVEFUNCTION PROPERTIES",
       "name": "VIRIAL RATIO (V/T)",
-      "value": "1.0000000000",
+      "value": "2.0063832816",
       "type": "float",
       "precision": 10,
       "tolerance": 7.5e-7
@@ -92,15 +92,31 @@
     {
       "header": "SELF-CONSISTENT FIELD ENERGY",
       "name": "FINAL SCF ENERGY",
-      "value": "0.0000000000",
+      "value": "-92.2388206097",
       "type": "float",
       "precision": 10,
       "tolerance": 7.5e-7
     },
     {
+      "header": "GRADIENT",
+      "name": "MAXIMUM GRADIENT",
+      "value": "0.015895902",
+      "type": "float",
+      "precision": 7,
+      "tolerance": 5e-05
+    },
+    {
+      "header": "GRADIENT",
+      "name": "RMS GRADIENT",
+      "value": "0.009177503",
+      "type": "float",
+      "precision": 7,
+      "tolerance": 5e-05
+    },
+    {
       "header": "SPIN",
       "name": "S-SQUARED",
-      "value": "0.750",
+      "value": "0.789",
       "type": "float",
       "precision": 3,
       "tolerance": 0.5
@@ -108,7 +124,7 @@
     {
       "header": "ELECTROSTATICS",
       "name": "DIPOLE MOMENT",
-      "value": "32.952683",
+      "value": "1.175695",
       "type": "float",
       "precision": 6,
       "tolerance": 0.0005
