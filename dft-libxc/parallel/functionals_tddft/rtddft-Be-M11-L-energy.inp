@@ -1,0 +1,21 @@
+ $CONTRL DFTTYP=USELIBXC $END
+ $LIBXC FUNCTIONAL=M11-L $END
+ $SYSTEM MWORDS=5 $END
+ $CONTRL MAXIT=200 SCFTYP=RHF RUNTYP=ENERGY ISPHER=1 UNITS=ANGS
+  EXETYP=RUN COORD=UNIQUE ICHARG=0 MULT=1 TDDFT=EXCITE $END
+ $BASIS GBASIS=CCD                          $END
+ $SCF DIRSCF=.TRUE.                                  $END
+ $SCF DIIS=.FALSE.                                   $END
+ $SCF SOSCF=.TRUE.                                   $END
+ $STATPT NSTEP=100 OPTTOL=1D-7                       $END
+ $DFT NRAD=300 NLEB=302 SWOFF=0 SWITCH=0             $END
+ $TDDFT NRAD=300 NLEB=302 NSTATE=2                   $END
+ $DATA
+ Berillium atom
+C1
+ Be          4.0 0.0 0.0 0.0
+ $END
+
+!
+!TRAVIS-CI SMALL
+!
