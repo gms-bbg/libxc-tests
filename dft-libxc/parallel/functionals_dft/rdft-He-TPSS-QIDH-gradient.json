@@ -12,7 +12,7 @@
     {
       "header": "WAVEFUNCTION PROPERTIES",
       "name": "ONE ELECTRON ENERGY",
-      "value": "-3.8653009649",
+      "value": "-3.8653009650",
       "type": "float",
       "precision": 10,
       "tolerance": 7.5e-7
@@ -20,7 +20,7 @@
     {
       "header": "WAVEFUNCTION PROPERTIES",
       "name": "TWO ELECTRON ENERGY",
-      "value": "0.9908888052",
+      "value": "0.9908888050",
       "type": "float",
       "precision": 10,
       "tolerance": 7.5e-7
@@ -36,7 +36,7 @@
     {
       "header": "WAVEFUNCTION PROPERTIES",
       "name": "TOTAL ENERGY",
-      "value": "-2.8744121597",
+      "value": "-2.8744121600",
       "type": "float",
       "precision": 10,
       "tolerance": 7.5e-7
@@ -52,7 +52,7 @@
     {
       "header": "WAVEFUNCTION PROPERTIES",
       "name": "ELECTRON-ELECTRON POTENTIAL ENERGY",
-      "value": "0.9908888052",
+      "value": "0.9908888050",
       "type": "float",
       "precision": 10,
       "tolerance": 7.5e-7
@@ -60,7 +60,7 @@
     {
       "header": "WAVEFUNCTION PROPERTIES",
       "name": "NUCLEUS-ELECTRON POTENTIAL ENERGY",
-      "value": "-6.7072865801",
+      "value": "-6.7072865809",
       "type": "float",
       "precision": 10,
       "tolerance": 7.5e-7
@@ -68,7 +68,7 @@
     {
       "header": "WAVEFUNCTION PROPERTIES",
       "name": "TOTAL POTENTIAL ENERGY",
-      "value": "-5.7163977749",
+      "value": "-5.7163977760",
       "type": "float",
       "precision": 10,
       "tolerance": 7.5e-7
@@ -76,7 +76,7 @@
     {
       "header": "WAVEFUNCTION PROPERTIES",
       "name": "TOTAL KINETIC ENERGY",
-      "value": "2.8419856152",
+      "value": "2.8419856159",
       "type": "float",
       "precision": 10,
       "tolerance": 7.5e-7
@@ -84,10 +84,26 @@
     {
       "header": "WAVEFUNCTION PROPERTIES",
       "name": "VIRIAL RATIO (V/T)",
-      "value": "2.0114098201",
+      "value": "2.0114098199",
       "type": "float",
       "precision": 10,
       "tolerance": 7.5e-7
+    },
+    {
+      "header": "GRADIENT",
+      "name": "MAXIMUM GRADIENT",
+      "value": "0.000000000",
+      "type": "float",
+      "precision": 7,
+      "tolerance": 5e-05
+    },
+    {
+      "header": "GRADIENT",
+      "name": "RMS GRADIENT",
+      "value": "0.000000000",
+      "type": "float",
+      "precision": 7,
+      "tolerance": 5e-05
     },
     {
       "header": "ELECTROSTATICS",
@@ -100,7 +116,7 @@
     {
       "header": "LIBCCHEM",
       "name": "E(0)       ",
-      "value": "-2.8744121597",
+      "value": "-2.8744121600",
       "type": "float",
       "precision": 10,
       "tolerance": 7.5e-7
@@ -116,7 +132,7 @@
     {
       "header": "LIBCCHEM",
       "name": "E(2)       ",
-      "value": "-0.0123649143",
+      "value": "-0.0123657532",
       "type": "float",
       "precision": 10,
       "tolerance": 7.5e-7
@@ -124,7 +140,7 @@
     {
       "header": "LIBCCHEM",
       "name": "E(MP2)     ",
-      "value": "-2.8867770739",
+      "value": "-2.8867779132",
       "type": "float",
       "precision": 10,
       "tolerance": 7.5e-7

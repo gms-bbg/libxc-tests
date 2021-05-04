@@ -20,7 +20,7 @@
     {
       "header": "WAVEFUNCTION PROPERTIES",
       "name": "TWO ELECTRON ENERGY",
-      "value": "0.9996030052",
+      "value": "0.9996030050",
       "type": "float",
       "precision": 10,
       "tolerance": 7.5e-7
@@ -36,7 +36,7 @@
     {
       "header": "WAVEFUNCTION PROPERTIES",
       "name": "TOTAL ENERGY",
-      "value": "-2.8655401762",
+      "value": "-2.8655401765",
       "type": "float",
       "precision": 10,
       "tolerance": 7.5e-7
@@ -52,7 +52,7 @@
     {
       "header": "WAVEFUNCTION PROPERTIES",
       "name": "ELECTRON-ELECTRON POTENTIAL ENERGY",
-      "value": "0.9996030052",
+      "value": "0.9996030050",
       "type": "float",
       "precision": 10,
       "tolerance": 7.5e-7
@@ -68,7 +68,7 @@
     {
       "header": "WAVEFUNCTION PROPERTIES",
       "name": "TOTAL POTENTIAL ENERGY",
-      "value": "-5.7066118149",
+      "value": "-5.7066118151",
       "type": "float",
       "precision": 10,
       "tolerance": 7.5e-7
@@ -84,10 +84,26 @@
     {
       "header": "WAVEFUNCTION PROPERTIES",
       "name": "VIRIAL RATIO (V/T)",
-      "value": "2.0086124324",
+      "value": "2.0086124325",
       "type": "float",
       "precision": 10,
       "tolerance": 7.5e-7
+    },
+    {
+      "header": "GRADIENT",
+      "name": "MAXIMUM GRADIENT",
+      "value": "0.000000000",
+      "type": "float",
+      "precision": 7,
+      "tolerance": 5e-05
+    },
+    {
+      "header": "GRADIENT",
+      "name": "RMS GRADIENT",
+      "value": "0.000000000",
+      "type": "float",
+      "precision": 7,
+      "tolerance": 5e-05
     },
     {
       "header": "ELECTROSTATICS",
@@ -100,7 +116,7 @@
     {
       "header": "LIBCCHEM",
       "name": "E(0)       ",
-      "value": "-2.8655401762",
+      "value": "-2.8655401765",
       "type": "float",
       "precision": 10,
       "tolerance": 7.5e-7
@@ -124,7 +140,7 @@
     {
       "header": "LIBCCHEM",
       "name": "E(MP2)     ",
-      "value": "-2.8786828881",
+      "value": "-2.8786828883",
       "type": "float",
       "precision": 10,
       "tolerance": 7.5e-7
