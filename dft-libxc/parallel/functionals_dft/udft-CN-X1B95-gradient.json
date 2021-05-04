@@ -7,7 +7,7 @@
       "value": "1.0000000000",
       "type": "float",
       "precision": 10,
-      "tolerance": 7.5e-7
+      "tolerance": 7.5e-07
     },
     {
       "header": "WAVEFUNCTION PROPERTIES",
@@ -15,7 +15,7 @@
       "value": "-160.0296641520",
       "type": "float",
       "precision": 10,
-      "tolerance": 7.5e-7
+      "tolerance": 7.5e-07
     },
     {
       "header": "WAVEFUNCTION PROPERTIES",
@@ -23,7 +23,7 @@
       "value": "53.8212335347",
       "type": "float",
       "precision": 10,
-      "tolerance": 7.5e-7
+      "tolerance": 7.5e-07
     },
     {
       "header": "WAVEFUNCTION PROPERTIES",
@@ -31,7 +31,7 @@
       "value": "18.9961063830",
       "type": "float",
       "precision": 10,
-      "tolerance": 7.5e-7
+      "tolerance": 7.5e-07
     },
     {
       "header": "WAVEFUNCTION PROPERTIES",
@@ -39,7 +39,7 @@
       "value": "-87.2123242344",
       "type": "float",
       "precision": 10,
-      "tolerance": 7.5e-7
+      "tolerance": 7.5e-07
     },
     {
       "header": "WAVEFUNCTION PROPERTIES",
@@ -47,7 +47,7 @@
       "value": "18.9961063830",
       "type": "float",
       "precision": 10,
-      "tolerance": 7.5e-7
+      "tolerance": 7.5e-07
     },
     {
       "header": "WAVEFUNCTION PROPERTIES",
@@ -55,7 +55,7 @@
       "value": "53.8212335347",
       "type": "float",
       "precision": 10,
-      "tolerance": 7.5e-7
+      "tolerance": 7.5e-07
     },
     {
       "header": "WAVEFUNCTION PROPERTIES",
@@ -63,7 +63,7 @@
       "value": "-249.8779830884",
       "type": "float",
       "precision": 10,
-      "tolerance": 7.5e-7
+      "tolerance": 7.5e-07
     },
     {
       "header": "WAVEFUNCTION PROPERTIES",
@@ -71,7 +71,7 @@
       "value": "-177.0606431708",
       "type": "float",
       "precision": 10,
-      "tolerance": 7.5e-7
+      "tolerance": 7.5e-07
     },
     {
       "header": "WAVEFUNCTION PROPERTIES",
@@ -79,7 +79,7 @@
       "value": "89.8483189364",
       "type": "float",
       "precision": 10,
-      "tolerance": 7.5e-7
+      "tolerance": 7.5e-07
     },
     {
       "header": "WAVEFUNCTION PROPERTIES",
@@ -87,7 +87,7 @@
       "value": "1.9706617249",
       "type": "float",
       "precision": 10,
-      "tolerance": 7.5e-7
+      "tolerance": 7.5e-07
     },
     {
       "header": "SELF-CONSISTENT FIELD ENERGY",
@@ -95,7 +95,7 @@
       "value": "-87.2123242344",
       "type": "float",
       "precision": 10,
-      "tolerance": 7.5e-7
+      "tolerance": 7.5e-07
     },
     {
       "header": "GRADIENT",

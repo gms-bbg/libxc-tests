@@ -7,7 +7,7 @@
       "value": "1.0000000000",
       "type": "float",
       "precision": 10,
-      "tolerance": 7.5e-7
+      "tolerance": 7.5e-07
     },
     {
       "header": "WAVEFUNCTION PROPERTIES",
@@ -15,7 +15,7 @@
       "value": "-3.8653009650",
       "type": "float",
       "precision": 10,
-      "tolerance": 7.5e-7
+      "tolerance": 7.5e-07
     },
     {
       "header": "WAVEFUNCTION PROPERTIES",
@@ -23,7 +23,7 @@
       "value": "0.9908888050",
       "type": "float",
       "precision": 10,
-      "tolerance": 7.5e-7
+      "tolerance": 7.5e-07
     },
     {
       "header": "WAVEFUNCTION PROPERTIES",
@@ -31,7 +31,7 @@
       "value": "0.0000000000",
       "type": "float",
       "precision": 10,
-      "tolerance": 7.5e-7
+      "tolerance": 7.5e-07
     },
     {
       "header": "WAVEFUNCTION PROPERTIES",
@@ -39,7 +39,7 @@
       "value": "-2.8744121600",
       "type": "float",
       "precision": 10,
-      "tolerance": 7.5e-7
+      "tolerance": 7.5e-07
     },
     {
       "header": "WAVEFUNCTION PROPERTIES",
@@ -47,7 +47,7 @@
       "value": "0.0000000000",
       "type": "float",
       "precision": 10,
-      "tolerance": 7.5e-7
+      "tolerance": 7.5e-07
     },
     {
       "header": "WAVEFUNCTION PROPERTIES",
@@ -55,7 +55,7 @@
       "value": "0.9908888050",
       "type": "float",
       "precision": 10,
-      "tolerance": 7.5e-7
+      "tolerance": 7.5e-07
     },
     {
       "header": "WAVEFUNCTION PROPERTIES",
@@ -63,7 +63,7 @@
       "value": "-6.7072865809",
       "type": "float",
       "precision": 10,
-      "tolerance": 7.5e-7
+      "tolerance": 7.5e-07
     },
     {
       "header": "WAVEFUNCTION PROPERTIES",
@@ -71,7 +71,7 @@
       "value": "-5.7163977760",
       "type": "float",
       "precision": 10,
-      "tolerance": 7.5e-7
+      "tolerance": 7.5e-07
     },
     {
       "header": "WAVEFUNCTION PROPERTIES",
@@ -79,7 +79,7 @@
       "value": "2.8419856159",
       "type": "float",
       "precision": 10,
-      "tolerance": 7.5e-7
+      "tolerance": 7.5e-07
     },
     {
       "header": "WAVEFUNCTION PROPERTIES",
@@ -87,7 +87,7 @@
       "value": "2.0114098199",
       "type": "float",
       "precision": 10,
-      "tolerance": 7.5e-7
+      "tolerance": 7.5e-07
     },
     {
       "header": "GRADIENT",
@@ -119,7 +119,7 @@
       "value": "-2.8744121600",
       "type": "float",
       "precision": 10,
-      "tolerance": 7.5e-7
+      "tolerance": 7.5e-07
     },
     {
       "header": "LIBCCHEM",
@@ -127,7 +127,7 @@
       "value": "0.0",
       "type": "float",
       "precision": 10,
-      "tolerance": 7.5e-7
+      "tolerance": 7.5e-07
     },
     {
       "header": "LIBCCHEM",
@@ -135,7 +135,7 @@
       "value": "-0.0123657532",
       "type": "float",
       "precision": 10,
-      "tolerance": 7.5e-7
+      "tolerance": 7.5e-07
     },
     {
       "header": "LIBCCHEM",
@@ -143,7 +143,7 @@
       "value": "-2.8867779132",
       "type": "float",
       "precision": 10,
-      "tolerance": 7.5e-7
+      "tolerance": 7.5e-07
     }
   ]
 }
