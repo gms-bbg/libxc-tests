@@ -17,5 +17,7 @@ C1
  $END
 
 !
-!TRAVIS-CI SMALL
+!TRAVIS-CI SKIP
+!
+! GAMESS provides different SCF minima with gfortran and intel compilers
 !
