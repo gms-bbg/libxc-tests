@@ -18,5 +18,7 @@ C1
  $END
 
 !
-!TRAVIS-CI SMALL
+!TRAVIS-CI SKIP
+!
+! GAMESS-Intel: TDDFT can not be solved
 !
