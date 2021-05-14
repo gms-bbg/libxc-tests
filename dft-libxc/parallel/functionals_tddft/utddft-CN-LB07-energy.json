@@ -12,7 +12,7 @@
     {
       "header": "WAVEFUNCTION PROPERTIES",
       "name": "ONE ELECTRON ENERGY",
-      "value": "-160.6547798128",
+      "value": "-161.0833774400",
       "type": "float",
       "precision": 10,
       "tolerance": 7.5e-07
@@ -20,7 +20,7 @@
     {
       "header": "WAVEFUNCTION PROPERTIES",
       "name": "TWO ELECTRON ENERGY",
-      "value": "54.2912074013",
+      "value": "51.6397888527",
       "type": "float",
       "precision": 10,
       "tolerance": 7.5e-07
@@ -36,7 +36,7 @@
     {
       "header": "WAVEFUNCTION PROPERTIES",
       "name": "TOTAL ENERGY",
-      "value": "-87.3674660284",
+      "value": "-90.4474822043",
       "type": "float",
       "precision": 10,
       "tolerance": 7.5e-07
@@ -52,7 +52,7 @@
     {
       "header": "WAVEFUNCTION PROPERTIES",
       "name": "ELECTRON-ELECTRON POTENTIAL ENERGY",
-      "value": "54.2912074013",
+      "value": "51.6397888527",
       "type": "float",
       "precision": 10,
       "tolerance": 7.5e-07
@@ -60,7 +60,7 @@
     {
       "header": "WAVEFUNCTION PROPERTIES",
       "name": "NUCLEUS-ELECTRON POTENTIAL ENERGY",
-      "value": "-251.1618101117",
+      "value": "-251.9196344750",
       "type": "float",
       "precision": 10,
       "tolerance": 7.5e-07
@@ -68,7 +68,7 @@
     {
       "header": "WAVEFUNCTION PROPERTIES",
       "name": "TOTAL POTENTIAL ENERGY",
-      "value": "-177.8744963274",
+      "value": "-181.2837392393",
       "type": "float",
       "precision": 10,
       "tolerance": 7.5e-07
@@ -76,7 +76,7 @@
     {
       "header": "WAVEFUNCTION PROPERTIES",
       "name": "TOTAL KINETIC ENERGY",
-      "value": "90.5070302990",
+      "value": "90.8362570350",
       "type": "float",
       "precision": 10,
       "tolerance": 7.5e-07
@@ -84,7 +84,7 @@
     {
       "header": "WAVEFUNCTION PROPERTIES",
       "name": "VIRIAL RATIO (V/T)",
-      "value": "1.9653113768",
+      "value": "1.9957200479",
       "type": "float",
       "precision": 10,
       "tolerance": 7.5e-07
@@ -92,7 +92,7 @@
     {
       "header": "SELF-CONSISTENT FIELD ENERGY",
       "name": "FINAL SCF ENERGY",
-      "value": "-87.3674660284",
+      "value": "-90.4474822043",
       "type": "float",
       "precision": 10,
       "tolerance": 7.5e-07
@@ -100,7 +100,7 @@
     {
       "header": "SPIN",
       "name": "S-SQUARED",
-      "value": "0.751",
+      "value": "0.764",
       "type": "float",
       "precision": 3,
       "tolerance": 0.5
@@ -108,7 +108,7 @@
     {
       "header": "STATE ENERGIES",
       "name": "ENERGY : STATE -2",
-      "value": "1.850967",
+      "value": "1.373433",
       "type": "float",
       "precision": 6,
       "tolerance": 0.0005
@@ -116,7 +116,7 @@
     {
       "header": "STATE ENERGIES",
       "name": "ENERGY : STATE -1",
-      "value": "1.850967",
+      "value": "1.373434",
       "type": "float",
       "precision": 6,
       "tolerance": 0.0005
@@ -124,7 +124,7 @@
     {
       "header": "ELECTROSTATICS",
       "name": "DIPOLE MOMENT",
-      "value": "0.372889",
+      "value": "1.447072",
       "type": "float",
       "precision": 6,
       "tolerance": 0.0005
@@ -132,7 +132,7 @@
     {
       "header": "TDDFT",
       "name": "ENERGY : TRANSITION 1",
-      "value": "1.850967",
+      "value": "1.373433",
       "type": "float",
       "precision": 6,
       "tolerance": 0.0005
@@ -140,7 +140,7 @@
     {
       "header": "TDDFT",
       "name": "ENERGY : TRANSITION 2",
-      "value": "1.850967",
+      "value": "1.373434",
       "type": "float",
       "precision": 6,
       "tolerance": 0.0005
@@ -148,7 +148,7 @@
     {
       "header": "TDDFT",
       "name": "OSCILLATOR STRENGTH : TRANSITION 1",
-      "value": "0.003450",
+      "value": "0.003696",
       "type": "float",
       "precision": 6,
       "tolerance": 0.0005
@@ -156,7 +156,7 @@
     {
       "header": "TDDFT",
       "name": "OSCILLATOR STRENGTH : TRANSITION 2",
-      "value": "0.003450",
+      "value": "0.003696",
       "type": "float",
       "precision": 6,
       "tolerance": 0.0005
