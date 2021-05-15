@@ -1,12 +1,13 @@
  $CONTRL DFTTYP=USELIBXC $END
  $LIBXC FUNCTIONAL=MPW2-PLYP $END
- $SYSTEM MWORDS=5 $END
+ $SYSTEM MWORDS=5 MEMDDI=1 $END
  $CONTRL MAXIT=200 SCFTYP=RHF RUNTYP=gradient ISPHER=1 UNITS=ANGS
   EXETYP=RUN COORD=UNIQUE ICHARG=0 MULT=1            $END
  $BASIS GBASIS=N21 NGAUSS=3                          $END
  $SCF DIRSCF=.TRUE.                                  $END
  $SCF DIIS=.TRUE.                                    $END
  $SCF SOSCF=.FALSE.                                  $END
+ $MP2 CODE=DDI $END
  $STATPT NSTEP=100 OPTTOL=1D-7                       $END
  $DFT NRAD=300 NLEB=302                              $END
  $DATA

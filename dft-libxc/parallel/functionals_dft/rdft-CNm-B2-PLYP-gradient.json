@@ -12,7 +12,7 @@
     {
       "header": "WAVEFUNCTION PROPERTIES",
       "name": "ONE ELECTRON ENERGY",
-      "value": "-166.5924338394",
+      "value": "-166.5924338315",
       "type": "float",
       "precision": 10,
       "tolerance": 7.5e-07
@@ -20,7 +20,7 @@
     {
       "header": "WAVEFUNCTION PROPERTIES",
       "name": "TWO ELECTRON ENERGY",
-      "value": "55.4868279387",
+      "value": "55.4868279272",
       "type": "float",
       "precision": 10,
       "tolerance": 7.5e-07
@@ -36,7 +36,7 @@
     {
       "header": "WAVEFUNCTION PROPERTIES",
       "name": "TOTAL ENERGY",
-      "value": "-92.1094995177",
+      "value": "-92.1094995213",
       "type": "float",
       "precision": 10,
       "tolerance": 7.5e-07
@@ -52,7 +52,7 @@
     {
       "header": "WAVEFUNCTION PROPERTIES",
       "name": "ELECTRON-ELECTRON POTENTIAL ENERGY",
-      "value": "55.4868279387",
+      "value": "55.4868279272",
       "type": "float",
       "precision": 10,
       "tolerance": 7.5e-07
@@ -60,7 +60,7 @@
     {
       "header": "WAVEFUNCTION PROPERTIES",
       "name": "NUCLEUS-ELECTRON POTENTIAL ENERGY",
-      "value": "-258.4812546444",
+      "value": "-258.4812546358",
       "type": "float",
       "precision": 10,
       "tolerance": 7.5e-07
@@ -68,7 +68,7 @@
     {
       "header": "WAVEFUNCTION PROPERTIES",
       "name": "TOTAL POTENTIAL ENERGY",
-      "value": "-183.9983203227",
+      "value": "-183.9983203256",
       "type": "float",
       "precision": 10,
       "tolerance": 7.5e-07
@@ -76,7 +76,7 @@
     {
       "header": "WAVEFUNCTION PROPERTIES",
       "name": "TOTAL KINETIC ENERGY",
-      "value": "91.8888208050",
+      "value": "91.8888208043",
       "type": "float",
       "precision": 10,
       "tolerance": 7.5e-07
@@ -90,9 +90,65 @@
       "tolerance": 7.5e-07
     },
     {
+      "header": "MP2",
+      "name": "E(SCF)",
+      "value": "-92.1094995213",
+      "type": "float",
+      "precision": 10,
+      "tolerance": 7.5e-07
+    },
+    {
+      "header": "MP2",
+      "name": "E(2)",
+      "value": "-0.2489084610",
+      "type": "float",
+      "precision": 10,
+      "tolerance": 7.5e-07
+    },
+    {
+      "header": "MP2",
+      "name": "E(MP2)",
+      "value": "-92.3584079823",
+      "type": "float",
+      "precision": 10,
+      "tolerance": 7.5e-07
+    },
+    {
+      "header": "MP2 : SPIN-COMPONENT-SCALED",
+      "name": "E(2S)",
+      "value": "-0.1827861347",
+      "type": "float",
+      "precision": 10,
+      "tolerance": 7.5e-07
+    },
+    {
+      "header": "MP2 : SPIN-COMPONENT-SCALED",
+      "name": "E(2T)",
+      "value": "-0.0661223263",
+      "type": "float",
+      "precision": 10,
+      "tolerance": 7.5e-07
+    },
+    {
+      "header": "MP2 : SPIN-COMPONENT-SCALED",
+      "name": "E(2ST)",
+      "value": "-0.2413841371",
+      "type": "float",
+      "precision": 10,
+      "tolerance": 7.5e-07
+    },
+    {
+      "header": "MP2 : SPIN-COMPONENT-SCALED",
+      "name": "E(SCS-MP2)",
+      "value": "-92.3508836584",
+      "type": "float",
+      "precision": 10,
+      "tolerance": 7.5e-07
+    },
+    {
       "header": "GRADIENT",
       "name": "MAXIMUM GRADIENT",
-      "value": "0.029036047",
+      "value": "0.029036050",
       "type": "float",
       "precision": 7,
       "tolerance": 5e-05
@@ -100,7 +156,7 @@
     {
       "header": "GRADIENT",
       "name": "RMS GRADIENT",
-      "value": "0.016763970",
+      "value": "0.016763971",
       "type": "float",
       "precision": 7,
       "tolerance": 5e-05
@@ -112,38 +168,6 @@
       "type": "float",
       "precision": 6,
       "tolerance": 0.0005
-    },
-    {
-      "header": "LIBCCHEM",
-      "name": "E(0)       ",
-      "value": "-92.1094995177",
-      "type": "float",
-      "precision": 10,
-      "tolerance": 7.5e-07
-    },
-    {
-      "header": "LIBCCHEM",
-      "name": "E(1)       ",
-      "value": "0.0",
-      "type": "float",
-      "precision": 10,
-      "tolerance": 7.5e-07
-    },
-    {
-      "header": "LIBCCHEM",
-      "name": "E(2)       ",
-      "value": "-0.2489084652",
-      "type": "float",
-      "precision": 10,
-      "tolerance": 7.5e-07
-    },
-    {
-      "header": "LIBCCHEM",
-      "name": "E(MP2)     ",
-      "value": "-92.3584079830",
-      "type": "float",
-      "precision": 10,
-      "tolerance": 7.5e-07
     }
   ]
 }
