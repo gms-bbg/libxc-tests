@@ -1,5 +1,5 @@
 {
-  "name": "rdft-CNm-CAM-QTP(01)-gradient.log",
+  "name": "udft-CN-CAM-QTPb02b-gradient.log",
   "validation": [
     {
       "header": "WAVEFUNCTION PROPERTIES",
@@ -12,7 +12,7 @@
     {
       "header": "WAVEFUNCTION PROPERTIES",
       "name": "ONE ELECTRON ENERGY",
-      "value": "-166.6779153175",
+      "value": "-161.3550154781",
       "type": "float",
       "precision": 10,
       "tolerance": 7.5e-07
@@ -20,7 +20,7 @@
     {
       "header": "WAVEFUNCTION PROPERTIES",
       "name": "TWO ELECTRON ENERGY",
-      "value": "55.4966624567",
+      "value": "50.3649741475",
       "type": "float",
       "precision": 10,
       "tolerance": 7.5e-07
@@ -36,7 +36,7 @@
     {
       "header": "WAVEFUNCTION PROPERTIES",
       "name": "TOTAL ENERGY",
-      "value": "-92.1851464778",
+      "value": "-91.9939349477",
       "type": "float",
       "precision": 10,
       "tolerance": 7.5e-07
@@ -52,7 +52,7 @@
     {
       "header": "WAVEFUNCTION PROPERTIES",
       "name": "ELECTRON-ELECTRON POTENTIAL ENERGY",
-      "value": "55.4966624567",
+      "value": "50.3649741475",
       "type": "float",
       "precision": 10,
       "tolerance": 7.5e-07
@@ -60,7 +60,7 @@
     {
       "header": "WAVEFUNCTION PROPERTIES",
       "name": "NUCLEUS-ELECTRON POTENTIAL ENERGY",
-      "value": "-258.5508832683",
+      "value": "-252.7236364632",
       "type": "float",
       "precision": 10,
       "tolerance": 7.5e-07
@@ -68,7 +68,7 @@
     {
       "header": "WAVEFUNCTION PROPERTIES",
       "name": "TOTAL POTENTIAL ENERGY",
-      "value": "-184.0581144286",
+      "value": "-183.3625559327",
       "type": "float",
       "precision": 10,
       "tolerance": 7.5e-07
@@ -76,7 +76,7 @@
     {
       "header": "WAVEFUNCTION PROPERTIES",
       "name": "TOTAL KINETIC ENERGY",
-      "value": "91.8729679507",
+      "value": "91.3686209850",
       "type": "float",
       "precision": 10,
       "tolerance": 7.5e-07
@@ -84,7 +84,7 @@
     {
       "header": "WAVEFUNCTION PROPERTIES",
       "name": "VIRIAL RATIO (V/T)",
-      "value": "2.0033979367",
+      "value": "2.0068438590",
       "type": "float",
       "precision": 10,
       "tolerance": 7.5e-07
@@ -92,7 +92,7 @@
     {
       "header": "SELF-CONSISTENT FIELD ENERGY",
       "name": "FINAL SCF ENERGY",
-      "value": "-92.1851464778",
+      "value": "-91.9939349477",
       "type": "float",
       "precision": 10,
       "tolerance": 7.5e-07
@@ -100,7 +100,7 @@
     {
       "header": "GRADIENT",
       "name": "MAXIMUM GRADIENT",
-      "value": "0.018491027",
+      "value": "0.012155883",
       "type": "float",
       "precision": 7,
       "tolerance": 5e-05
@@ -108,15 +108,23 @@
     {
       "header": "GRADIENT",
       "name": "RMS GRADIENT",
-      "value": "0.010675799",
+      "value": "0.007018202",
       "type": "float",
       "precision": 7,
       "tolerance": 5e-05
     },
     {
+      "header": "SPIN",
+      "name": "S-SQUARED",
+      "value": "0.771",
+      "type": "float",
+      "precision": 3,
+      "tolerance": 0.5
+    },
+    {
       "header": "ELECTROSTATICS",
       "name": "DIPOLE MOMENT",
-      "value": "0.694968",
+      "value": "1.493075",
       "type": "float",
       "precision": 6,
       "tolerance": 0.0005
