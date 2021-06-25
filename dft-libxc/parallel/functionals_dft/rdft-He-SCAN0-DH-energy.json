@@ -1,0 +1,157 @@
+{
+  "name": "rdft-He-SCAN0-DH-energy.log",
+  "validation": [
+    {
+      "header": "WAVEFUNCTION PROPERTIES",
+      "name": "WAVEFUNCTION NORMALIZATION",
+      "value": "1.0000000000",
+      "type": "float",
+      "precision": 10,
+      "tolerance": 7.5e-07
+    },
+    {
+      "header": "WAVEFUNCTION PROPERTIES",
+      "name": "ONE ELECTRON ENERGY",
+      "value": "-3.8658698325",
+      "type": "float",
+      "precision": 10,
+      "tolerance": 7.5e-07
+    },
+    {
+      "header": "WAVEFUNCTION PROPERTIES",
+      "name": "TWO ELECTRON ENERGY",
+      "value": "0.9952137354",
+      "type": "float",
+      "precision": 10,
+      "tolerance": 7.5e-07
+    },
+    {
+      "header": "WAVEFUNCTION PROPERTIES",
+      "name": "NUCLEAR REPULSION ENERGY",
+      "value": "0.0000000000",
+      "type": "float",
+      "precision": 10,
+      "tolerance": 7.5e-07
+    },
+    {
+      "header": "WAVEFUNCTION PROPERTIES",
+      "name": "TOTAL ENERGY",
+      "value": "-2.8706560971",
+      "type": "float",
+      "precision": 10,
+      "tolerance": 7.5e-07
+    },
+    {
+      "header": "WAVEFUNCTION PROPERTIES",
+      "name": "NUCLEUS-NUCLEUS POTENTIAL ENERGY",
+      "value": "0.0000000000",
+      "type": "float",
+      "precision": 10,
+      "tolerance": 7.5e-07
+    },
+    {
+      "header": "WAVEFUNCTION PROPERTIES",
+      "name": "ELECTRON-ELECTRON POTENTIAL ENERGY",
+      "value": "0.9952137354",
+      "type": "float",
+      "precision": 10,
+      "tolerance": 7.5e-07
+    },
+    {
+      "header": "WAVEFUNCTION PROPERTIES",
+      "name": "NUCLEUS-ELECTRON POTENTIAL ENERGY",
+      "value": "-6.7111591356",
+      "type": "float",
+      "precision": 10,
+      "tolerance": 7.5e-07
+    },
+    {
+      "header": "WAVEFUNCTION PROPERTIES",
+      "name": "TOTAL POTENTIAL ENERGY",
+      "value": "-5.7159454002",
+      "type": "float",
+      "precision": 10,
+      "tolerance": 7.5e-07
+    },
+    {
+      "header": "WAVEFUNCTION PROPERTIES",
+      "name": "TOTAL KINETIC ENERGY",
+      "value": "2.8452893031",
+      "type": "float",
+      "precision": 10,
+      "tolerance": 7.5e-07
+    },
+    {
+      "header": "WAVEFUNCTION PROPERTIES",
+      "name": "VIRIAL RATIO (V/T)",
+      "value": "2.0089153654",
+      "type": "float",
+      "precision": 10,
+      "tolerance": 7.5e-07
+    },
+    {
+      "header": "MP2",
+      "name": "E(SCF)",
+      "value": "-2.8706560971",
+      "type": "float",
+      "precision": 10,
+      "tolerance": 7.5e-07
+    },
+    {
+      "header": "MP2",
+      "name": "E(2)",
+      "value": "-0.0130154815",
+      "type": "float",
+      "precision": 10,
+      "tolerance": 7.5e-07
+    },
+    {
+      "header": "MP2",
+      "name": "E(MP2)",
+      "value": "-2.8836715785",
+      "type": "float",
+      "precision": 10,
+      "tolerance": 7.5e-07
+    },
+    {
+      "header": "MP2 : SPIN-COMPONENT-SCALED",
+      "name": "E(2S)",
+      "value": "-0.0130154815",
+      "type": "float",
+      "precision": 10,
+      "tolerance": 7.5e-07
+    },
+    {
+      "header": "MP2 : SPIN-COMPONENT-SCALED",
+      "name": "E(2T)",
+      "value": "0.0000000000",
+      "type": "float",
+      "precision": 10,
+      "tolerance": 7.5e-07
+    },
+    {
+      "header": "MP2 : SPIN-COMPONENT-SCALED",
+      "name": "E(2ST)",
+      "value": "-0.0156185777",
+      "type": "float",
+      "precision": 10,
+      "tolerance": 7.5e-07
+    },
+    {
+      "header": "MP2 : SPIN-COMPONENT-SCALED",
+      "name": "E(SCS-MP2)",
+      "value": "-2.8862746748",
+      "type": "float",
+      "precision": 10,
+      "tolerance": 7.5e-07
+    },
+    {
+      "header": "ELECTROSTATICS",
+      "name": "DIPOLE MOMENT",
+      "value": "0.000000",
+      "type": "float",
+      "precision": 6,
+      "tolerance": 0.0005
+    }
+  ]
+}
