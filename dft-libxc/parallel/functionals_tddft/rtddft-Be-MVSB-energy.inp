@@ -8,8 +8,8 @@
  $SCF DIIS=.TRUE.                                    $END
  $SCF SOSCF=.FALSE.                                  $END
  $STATPT NSTEP=100 OPTTOL=1D-7                       $END
- $DFT NRAD=300 NLEB=974                              $END
- $TDDFT NRAD=300 NLEB=974 NSTATE=2                   $END
+ $DFT NRAD=500 NLEB=974                              $END
+ $TDDFT NRAD=500 NLEB=974 NSTATE=2                   $END
  $DATA
  Berillium atom
 C1
