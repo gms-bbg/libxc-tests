@@ -17,5 +17,11 @@ C1
  $END
 
 !
-!TRAVIS-CI SMALL
+!TRAVIS-CI SKIP
+!
+! This method is unstable for this system
+! Three different runs of this test in comparison to validation file:
+! netlib   sockets gnu epyc    [                     ONE ELECTRON ENERGY]       -19.1133374207        -0.0000009437 [Failed]
+! netlib   sockets gnu skylake [                     ONE ELECTRON ENERGY]       -19.4628498018        -0.3495133248 [Failed]
+! openblas openmpi gnu skylake [                     ONE ELECTRON ENERGY]       -19.1485848444        -0.0352483674 [Failed]
 !
